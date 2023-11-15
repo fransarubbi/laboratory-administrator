@@ -1,0 +1,105 @@
+Javier Gonzalez
+34
+0
+Fisica Cuantica
+28
+4
+23
+Luciano Di Marco
+40
+0
+Fisica de Particulas
+9
+12
+18
+Marco Rossi
+45
+0
+Fisica Nuclear
+12
+10
+20
+Anja Schmidt
+28
+0
+Astrofisica
+10
+10
+21
+Camille Lambert
+27
+0
+Fisica Nuclear
+11
+8
+19
+Petra Fischer
+31
+0
+Fisica de Particulas
+8
+5
+22
+Elena Moretti
+37
+0
+Astrofisica
+1
+1
+23
+Francisco Diaz
+46
+0
+Fisica Cuantica
+3
+7
+22
+Klaus Wagner
+51
+0
+Genetica
+5
+6
+18
+Sophie Martin
+42
+0
+Biologia Molecular
+2
+3
+19
+Antoine Leclerc
+39
+0
+Genetica
+7
+10
+20
+Joao Pereira
+36
+0
+Microbiologia
+6
+4
+22
+Emily Jhonson
+25
+0
+Biologia Molecular
+4
+12
+21
+James Callagher
+26
+0
+Ecologia
+22
+8
+6
+Benjamin Wilson
+32
+0
+Microbiologia
+24
+2
+21

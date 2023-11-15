@@ -1,0 +1,129 @@
+Estudio de A
+Se estudia A
+14500.0
+9
+12
+18
+12
+9
+20
+2
+Electromagnetic Explores
+Equipo dedicado al estudio del electromagnetismo y sus aplicaciones
+Fisica Teorica
+Quantum Space
+Equipo dedicado al estudio de la fisica cuantica y su utilidad en la fisica nuclear
+Fisica Cuantica y Fisica Nuclear
+Fisica Teorica
+3
+Marco Rossi
+45
+Optica
+12
+10
+20
+Petra Fischer
+31
+Fisica de Particulas
+8
+5
+22
+Anja Schmidt
+28
+Astrofisica
+10
+10
+21
+Estudio de B
+Se estudia B
+12000.0
+9
+7
+22
+7
+9
+23
+4
+Electromagnetic Explores
+Equipo dedicado al estudio del electromagnetismo y sus aplicaciones
+Fisica Teorica
+Quantum Space
+Equipo dedicado al estudio de la fisica cuantica y su utilidad en la fisica nuclear
+Fisica Cuantica y Fisica Nuclear
+Biotech Explores
+Equipo dedicado al estudio de la genetica y microbiologia utilizando recursos tecnologicos de primera generacion
+Microbiologia y Genetica
+Ecosystem Green
+Equipo dedicado al estudio de la ecologia y zoologia para disminuir la contaminacion y cuidar de los animales
+Ecologia y Zoologia
+Fisica Cuantica y Fisica Nuclear
+2
+Javier Gonzalez
+34
+Fisica Cuantica
+28
+4
+23
+Francisco Diaz
+46
+Fisica Cuantica
+3
+7
+22
+Estudio de D
+Se estudia D
+13547.0
+15
+10
+19
+10
+7
+20
+2
+Electromagnetic Explores
+Equipo dedicado al estudio del electromagnetismo y sus aplicaciones
+Fisica Teorica
+Quantum Space
+Equipo dedicado al estudio de la fisica cuantica y su utilidad en la fisica nuclear
+Fisica Cuantica y Fisica Nuclear
+Fisica Teorica
+2
+Klaus Wagner
+51
+Genetica
+5
+6
+18
+Anja Schmidt
+28
+Astrofisica
+10
+10
+21
+Estudio de E
+Se estudia E
+11222.0
+4
+6
+21
+6
+4
+22
+3
+Electromagnetic Explores
+Equipo dedicado al estudio del electromagnetismo y sus aplicaciones
+Fisica Teorica
+Quantum Space
+Equipo dedicado al estudio de la fisica cuantica y su utilidad en la fisica nuclear
+Fisica Cuantica y Fisica Nuclear
+Biotech Explores
+Equipo dedicado al estudio de la genetica y microbiologia utilizando recursos tecnologicos de primera generacion
+Microbiologia y Genetica
+Fisica Cuantica y Fisica Nuclear
+1
+Elena Moretti
+37
+Astrofisica
+1
+1
+23

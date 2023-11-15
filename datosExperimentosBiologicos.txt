@@ -1,0 +1,114 @@
+Estudio de F
+Se estudia F
+20000.0
+9
+12
+19
+12
+9
+20
+1
+Electromagnetic Explores
+Equipo dedicado al estudio del electromagnetismo y sus aplicaciones
+Fisica Teorica
+Microbiologia
+3
+Sophie Martin
+42
+Biologia Molecular
+2
+3
+19
+Antoine Leclerc
+39
+Genetica
+7
+10
+20
+Emily Jhonson
+25
+Biologia Molecular
+4
+12
+21
+Estudio de G
+Se estudia G
+12000.0
+9
+7
+22
+7
+9
+23
+4
+Electromagnetic Explores
+Equipo dedicado al estudio del electromagnetismo y sus aplicaciones
+Fisica Teorica
+Quantum Space
+Equipo dedicado al estudio de la fisica cuantica y su utilidad en la fisica nuclear
+Fisica Cuantica y Fisica Nuclear
+Biotech Explores
+Equipo dedicado al estudio de la genetica y microbiologia utilizando recursos tecnologicos de primera generacion
+Microbiologia y Genetica
+Ecosystem Green
+Equipo dedicado al estudio de la ecologia y zoologia para disminuir la contaminacion y cuidar de los animales
+Ecologia y Zoologia
+Microbiologia
+1
+Benjamin Wilson
+32
+Microbiologia
+24
+2
+21
+Estudio de H
+Se estudia H
+13547.0
+15
+10
+19
+10
+7
+20
+2
+Electromagnetic Explores
+Equipo dedicado al estudio del electromagnetismo y sus aplicaciones
+Fisica Teorica
+Quantum Space
+Equipo dedicado al estudio de la fisica cuantica y su utilidad en la fisica nuclear
+Fisica Cuantica y Fisica Nuclear
+Microbiologia
+2
+Joao Pereira
+36
+Microbiologia
+6
+4
+22
+Antoine Leclerc
+39
+Genetica
+7
+10
+20
+Estudio de I
+Se estudia I
+11222.0
+4
+6
+21
+6
+4
+22
+1
+Biotech Explores
+Equipo dedicado al estudio de la genetica y microbiologia utilizando recursos tecnologicos de primera generacion
+Microbiologia y Genetica
+Microbiologia
+1
+Benjamin Wilson
+32
+Microbiologia
+24
+2
+21
